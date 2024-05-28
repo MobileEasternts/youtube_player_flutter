@@ -14,8 +14,8 @@ dependencies:
   flutter_inappwebview:
     git:
       url: https://github.com/MobileEasternts/flutter_inappwebview.git
-      ref: master
-      path: flutter_inappwebview
+      ref: v5.8.0
+      # path: flutter_inappwebview
 
 dev_dependencies:
   flutter_test:
